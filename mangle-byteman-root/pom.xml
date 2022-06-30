@@ -110,7 +110,7 @@
 						<dependency>
 							<groupId>org.codehaus.plexus</groupId>
 							<artifactId>plexus-archiver</artifactId>
-							<version>3.0.3</version>
+							<version>3.6.0</version>
 						</dependency>
 					</dependencies>
 				</plugin>
@@ -127,7 +127,7 @@
 						<dependency>
 							<groupId>org.codehaus.plexus</groupId>
 							<artifactId>plexus-archiver</artifactId>
-							<version>3.0.3</version>
+							<version>3.6.0</version>
 						</dependency>
 					</dependencies>
 				</plugin>
@@ -154,7 +154,7 @@
 						<dependency>
 							<groupId>org.codehaus.plexus</groupId>
 							<artifactId>plexus-archiver</artifactId>
-							<version>3.0.3</version>
+							<version>3.6.0</version>
 						</dependency>
 					</dependencies>
 				</plugin>
